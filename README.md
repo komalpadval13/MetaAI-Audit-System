@@ -45,7 +45,7 @@ The project uses a trained machine learning model and evaluates its behavior usi
 
 --------------------------------------------------
 
-# Dataset
+## Dataset
 
 The project uses the UCI Adult Income Dataset.  
 The task is to predict whether a person earns more than 50K per year.
@@ -56,7 +56,7 @@ Sensitive attributes used for auditing:
 
 --------------------------------------------------
 
-# Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -67,7 +67,7 @@ Sensitive attributes used for auditing:
 
 --------------------------------------------------
 
-# How to Run the Project
+## How to Run the Project
 
 1. Install dependencies
 
@@ -83,7 +83,7 @@ Sensitive attributes used for auditing:
 
 --------------------------------------------------
 
-# Output Summary
+## Output Summary
 
 - Bias detected in gender and race
 - Fairness violations identified
@@ -93,14 +93,14 @@ Sensitive attributes used for auditing:
 
 --------------------------------------------------
 
-# Conclusion
+## Conclusion
 
 This project shows that high accuracy does not guarantee fair or ethical AI.  
 AI systems must be audited before real-world deployment to ensure responsible usage.
 
 --------------------------------------------------
 
-# Author
+## Author
 
 Komal Padval  
 GitHub: https://github.com/komalpadval13/MetaAI-Audit-System
