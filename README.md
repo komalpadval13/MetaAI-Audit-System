@@ -6,7 +6,7 @@ The project uses a trained machine learning model and evaluates its behavior usi
 
 --------------------------------------------------
 
-# Project Features
+## Project Features
 
 - Bias analysis based on gender and race
 - Fairness evaluation using the 80% Disparate Impact Rule
@@ -17,7 +17,7 @@ The project uses a trained machine learning model and evaluates its behavior usi
 
 --------------------------------------------------
 
-# Project Structure  
+## Project Structure  
 
       MetaAI_Audit_System/
       │
@@ -83,20 +83,20 @@ Sensitive attributes used for auditing:
 
 --------------------------------------------------
 
-## Output Summary
+- Output Summary
 
-- Bias detected in gender and race
-- Fairness violations identified
-- Ethical AI score generated
-- Explainable features reported
-- Final verdict indicates mitigation is required
+  - Bias detected in gender and race
+  - Fairness violations identified
+  - Ethical AI score generated
+  - Explainable features reported
+  - Final verdict indicates mitigation is required
 
 --------------------------------------------------
 
-## Conclusion
+- Conclusion
 
-This project shows that high accuracy does not guarantee fair or ethical AI.  
-AI systems must be audited before real-world deployment to ensure responsible usage.
+ - This project shows that high accuracy does not guarantee fair or ethical AI.  
+ - AI systems must be audited before real-world deployment to ensure responsible usage.
 
 --------------------------------------------------
 
